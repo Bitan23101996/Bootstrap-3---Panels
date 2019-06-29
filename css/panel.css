@@ -1,0 +1,93 @@
+.panel-content .panel-border {
+
+    border-radius: 25px;
+    border: 2px solid rgb(3, 131, 236);
+}
+
+
+.panel-content .container-fluid {
+    margin-top: 25px;
+}
+
+.panel-content .row {
+
+    margin-bottom: 15px;
+}
+
+.panel-content .radio .pr-4 {
+    padding-right: 4px;
+
+}
+
+.panel-content .pt-10 {
+    padding-top: 10px;
+
+}
+
+.panel-content .pb-10 {
+    padding-bottom: 10px;
+}
+
+/* .panel-content .pb-15 {
+    padding-bottom: 15px;
+} */
+
+.panel-content .container-fluid .mt-2 {
+    margin-top: -2px;
+
+}
+
+
+.panel-content span {
+    font-size: 17px;
+}
+
+.panel-content label {
+    font-size: 17px;
+}
+
+.panel-content .dateTxt {
+    font-weight: bold;
+    font-size: 17px;
+    color: #2b2828;
+}
+
+.panel-content .currencyTxt {
+    font-size: 13px;
+}
+
+.panel-content .vendorTxt {
+    font-size: 13px;
+}
+
+.panel-content .amountTxt {
+    font-size: 16px;
+}
+
+
+/* For panel-4 page*/
+.upper-panel-content .container-fluid {
+    margin-top: 25px;
+}
+
+
+/* For panel-4 page*/
+.upper-panel-content span {
+    font-size: 17px;
+}
+
+/* For panel-4 page*/
+.upper-panel-content label {
+    font-size: 17px;
+}
+
+
+
+.table-borderless>tbody>tr>td,
+.table-borderless>tbody>tr>th,
+.table-borderless>tfoot>tr>td,
+.table-borderless>tfoot>tr>th,
+.table-borderless>thead>tr>td,
+.table-borderless>thead>tr>th {
+    border: none;
+}
